@@ -1,4 +1,4 @@
 # python-practice
 My First Project 
 <br>
-Author: Nimra Farooq 
+Author: Nimra Farooq Rajput 
